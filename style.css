@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.main-btn {
+    font-size: 1rem;
+    font-weight: 500;
+    color: black;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: .0625rem solid wheat;
+    padding: .375rem 1.875rem;
+    border-radius: 3.125rem;
+    line-height: 1.75rem;
+    display: inline-block;
+    transition: all 0.3s ease-out 0s;
+}
+
+
+
+/* -------------  CSS Loader  ----------- */
+/* 
+.overlay{
+	display: none;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	z-index: 10;
+	opacity: 0.7;
+}
+.loader{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:10px solid #333;
+	position: relative;
+	margin: 0 auto;
+	top:30%;
+	animation:loader 2s linear infinite;
+}
+@keyframes loader{
+	50% {
+		opacity: 0.5;
+	}
+	100% {
+		transform:rotate(360deg);
+	}
+}
+.loader:after{
+	content: "";
+    width: 35px;
+    height: 35px;
+    background: #333;
+    position: absolute;
+    border-radius: 50%;
+    top: -20px;
+    left: 55px;
+}
+.loader:before{
+	content: "";
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid #333;
+    position: absolute;
+    transform: rotate(-90deg);
+    top: -10px;
+    left: 39px;
+
+}
+ */
